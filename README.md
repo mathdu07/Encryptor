@@ -1,0 +1,4 @@
+Encryptor
+=========
+
+A basic encryptor
